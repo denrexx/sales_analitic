@@ -12,5 +12,3 @@ Small project for analyzing e-commerce sales data.
 ## 🧰 Tools
 
 Python • Pandas • Matplotlib
-
-## ▶ Run
